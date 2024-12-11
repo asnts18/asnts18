@@ -15,7 +15,6 @@ Currently sharpening my problem-solving skills by studying algorithms and data s
 Feel free to connect with me via santos.ab@northeastern.edu.
 
 ### 🌟 A fun tidbit about me:
-I developed a sliding puzzle game in Python using Turtle graphics and ensured its solvability with a clever algorithm! I love expressing my 
-creativity through dancing Jazz Funk, oil and watercolor painting, baking cakes,
+I love expressing my creativity through dancing Jazz Funk, oil and watercolor painting, baking cakes, and exploring different make up styles.
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
