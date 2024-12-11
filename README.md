@@ -9,7 +9,7 @@ I'm currently pursuing a Master's degree in Computer Science at Northeastern Uni
 my team and I recently completed our work on the **SaveSquadApp**, an iOS application focused on managing expenses with Firebase as the backend.
 
 ### 📚 What's on my learning radar?
-I'm expanding my tehnical skills by learning React, 
+Currently sharpening my problem-solving skills by studying algorithms and data structures.
 
 ### 📬 How to reach me?
 Feel free to connect with me via santos.ab@northeastern.edu.
