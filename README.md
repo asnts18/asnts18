@@ -1,19 +1,52 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Abby, an aspiring software engineer with a diverse background in business, analytics, data science, and software development. 
+## About Me ✨
 
-I am currently seeking for SWE internship opportunities. 
+I'm a **Computer Science MS student** at Northeastern University with a diverse background spanning business, analytics, data science, and software development. I love tackling complex problems and creating user-centered applications.
 
-### 🌟 What am I up to?
-I'm currently pursuing a Master's degree in Computer Science at Northeastern University, currently learning about Computer Systems and Database Management Systems. Previously, in my Mobile App Development class, I built **Save Squad**, an iOS application focused on managing expenses with Firebase as the backend. Outside of school, I am building **GitGood** with two peers from Northeastern Uni, a web app and Chrome extension that guides users navigate the complexities and overcome any intimidation of open source collaboration. I am also preparing for technical interviews through attending CodePath Technical Interview (Intermediate) classes.
+> **Currently seeking Software Engineering internship opportunities!**
 
-### 📚 What's on my learning radar?
-Currently sharpening my problem-solving skills by studying algorithms and data structures.
+## 🚀 Most Recent Projects
+- 📚 **StudySync** - Web app for students interested in creating study groups within their university
+  - *Tech stack: React, Tailwind CSS, JavaScript*
+  - *First hackathon project*
 
-### 📬 How to reach me?
-Feel free to connect with me via santos.ab@northeastern.edu.
+- 👩🏻‍💻 **GitGood** - Web app & Chrome extension simplifying open source contribution for newcomers
+  - *Tech stack: React, Tailwind CSS, Chrome Extensions API, TypeScript*
+  - *Team project with fellow Northeastern developers*
+    
+- 🔮 **Magical Movie Picker** - Movie recommender app that prevents decision fatigue
+  - *Tech stack: React, Tailwind CSS, JavaScript*
+  - *Personal Project*
+    
+- 💸 **SaveSquad** - iOS expense management application with social features
+  - *Tech stack: Swift, Firebase, UIKit*
+  - *Built during Mobile App Development course*
+    
+## 📚 Academic Focus
 
-### 🌟 A fun tidbit about me:
-I love expressing my creativity through dancing Jazz Funk, oil and watercolor painting, baking cakes, and exploring different make up styles.
+- **MS in Computer Science** - Northeastern University (Expected: Dec 2026)
+  - *Current coursework: Computer Systems, Database Management Systems*
+  - *Member of Rewriting the Code*
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
+- **Code Path Intermediate Technical Interview Prep** 
+  - Currently participating in CodePath's Intermedient Technical Interview (TIP102) program
+    
+
+## 🎨 Beyond Coding
+
+When I'm not coding, you'll find me:
+- 🧁 Baking cakes from scratch
+- 💃🏻 Dancing Jazz Funk
+- 🏋🏻‍♀️ Strength training
+- 🎨 Painting with oil and watercolor
+- ✍🏼 Journaling
+
+
+## 📫 Let's Connect!
+
+I'm always open to interesting collaborations and opportunities. Feel free to reach out via [santos.ab@northeastern.edu](mailto:santos.ab@northeastern.edu) or connect with me on LinkedIn!
+
+---
+
+⭐️ *From [YourGitHubUsername](https://github.com/YourGitHubUsername)*
